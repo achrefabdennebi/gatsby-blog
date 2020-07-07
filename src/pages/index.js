@@ -5,7 +5,7 @@ import Title from '../components/title';
 
 export default() => (
     <Layout>
-        <Title text='Welcome'/>
+        <Title text="Welcome"/>
         <div>
             <Link to="/">Home</Link> | <Link to="/about">About</Link>
         </div>
